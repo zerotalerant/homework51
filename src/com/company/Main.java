@@ -1,8 +1,5 @@
 package com.company;
 
-import Model.User;
-import Service.UserService;
-
 import java.time.LocalDateTime;
 
 public class Main {
